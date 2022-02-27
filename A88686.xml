@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration and propositions of Maj. Gen. Laughorne, &amp; Col. Rice Powel, in the name of themselves, and the army in South-Wales, concerning the Kings Majesty, his Highnesse the Prince of Wales, and their further proceedings touching their designe and engagement; with their desires and resolution touching the same. Also, Sir Marmaduke Langdales propositions in the north of England concerning the Kings Majesty, and the government of this kingdom, and the manner of the blocking up the town of Barwick, and the playing of 30 pieces of ordinance against it.</title>
+            <author>Laugharne, Rowland, d. 1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88686</idno>
+            <idno type="STC">Wing L400</idno>
+            <idno type="STC">Thomason E442_11</idno>
+            <idno type="STC">ESTC R204700</idno>
+            <idno type="EEBO-CITATION">99864165</idno>
+            <idno type="PROQUEST">99864165</idno>
+            <idno type="VID">161694</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88686)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161694)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E442[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration and propositions of Maj. Gen. Laughorne, &amp; Col. Rice Powel, in the name of themselves, and the army in South-Wales, concerning the Kings Majesty, his Highnesse the Prince of Wales, and their further proceedings touching their designe and engagement; with their desires and resolution touching the same. Also, Sir Marmaduke Langdales propositions in the north of England concerning the Kings Majesty, and the government of this kingdom, and the manner of the blocking up the town of Barwick, and the playing of 30 pieces of ordinance against it.</title>
+                  <author>Laugharne, Rowland, d. 1676.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May. 15. 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Berwick-upon-Tweed (England : District) --  History --  17th century --  Early works to 1800.</term>
+               <term>Wales, South --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161694:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>THE DECLARATION AND PROPOSITIONS OF Maj. Gen. <hi>Laughorne,</hi> &amp; Col. <hi>Rice Powel,</hi> IN The name of themſelves, and the Army in South-Wales, concerning the KINGS Majeſty, his Highneſſe the Prince of <hi>Wales,</hi> and their further proceedings touching their Deſigne and Engagement; with their Deſires and Reſo<g ref="char:EOLhyphen"/>lution touching the ſame.</p>
+            <p>ALSO, Sir MARMADUKE LANGDALES Propoſitions in the North of <hi>England</hi> concerning the <hi>Kings Majeſty,</hi> and the Government of this Kingdom, And the manner of the blocking up the Town of <hi>Barwick,</hi> and the playing of 30 Pieces of Ordinance againſt it. <add>May .15. 1648</add>
+            </p>
+            <p>LONDON, Printed for R. W. MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161694:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="1" facs="tcp:161694:2"/>
+            <!-- PDF PAGE 2 -->
+            <div type="letter">
+               <head>The Copy of a letter from the <hi>North;</hi> containing a Relation of the condition of thoſe parts; with ſome particulars from <hi>Barwick,</hi> as Col. <hi>Brodelin</hi> made Governour of <hi>Berwick,</hi> Sir <hi>VVilli<g ref="char:EOLhyphen"/>am Selby</hi> the Lord Generalls bro<g ref="char:EOLhyphen"/>ther, taken priſoner, and the Commiſ<g ref="char:EOLhyphen"/>ſioners Jnſtructions taken, &amp;c.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">T</seg>He works about this Towne goe one a pace, and with all, prepare for defence, the Inhabitantr out of their affections to the Com<g ref="char:EOLhyphen"/>mon good, as well as for their owne Security have undertaken to make a worke called the <hi>ſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ei<g ref="char:EOLhyphen"/>ffeld</hi> worke, and to incourage others, the Major and Aldermen went them ſelves firſt to beginne it, ſo that when the workers finiſhed, the Towne will be as it were double Walld; likewiſe the Souldiers make
+<pb n="2" facs="tcp:161694:3"/>
+                  <!-- PDF PAGE 3 -->
+up other works, and all paid for their paines, the Sur<g ref="char:EOLhyphen"/>priſe of <hi>Barwick,</hi> and Caſtill makes them the more diligent for by this they perceive which way things are likely to tend.</p>
+               <p>The <hi>Engl<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſh</hi> 
+                  <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s wee heere that ſurpriſed <hi>Barwick</hi> doe alſo uſe diligence to Fortifie that Towne, and they have made Colonell <hi>Brodlin</hi> the Govenour, who is to Command the forces there, and give I<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtructions for the fortifying and victualling thereof, they have taken Sir <hi>William Selby</hi> the Lord Generalls Brother priſoner, alſo they have taken the Commiſſioners with their Inſtructions, and other packets ſent by the Poſt from <hi>England,</hi> alſo they have ſecured the Mayor with the Commiſſioner and other which they tooke; alſo they brought in ſome proviſions with them; but to prevent other proviſions and ſupplyes going unto them, there is a Ship gone from <hi>Newcaſtle,</hi> called the Adventure, to block up the River <hi>Tweede,</hi> to prevent the bringing of any reliefe that way; but ſome Foote all come into them from <hi>Scotland</hi> ſide, but they have broken down the Bridge, ſo that none could paſſe o<g ref="char:EOLhyphen"/>ver into <hi>England</hi> that way: there is much talke of Prince <hi>Charles</hi> his coming into <hi>Scotland,</hi> and that he hath already granted Commiſſion to divers alſo, it is reported that <hi>Barwick</hi> was ſurprized by a Commiſsi<g ref="char:EOLhyphen"/>on from the Prince, the <hi>Scots</hi> make preparations that all may be in a readineſſe againſt the returne of their Commiſsion, and if their anſwer be not ſatisfactory, as they call it, they threaten to do ſomething, it is ho<g ref="char:EOLhyphen"/>ped when the time comes, there will not dare to ven<g ref="char:EOLhyphen"/>ture upon any deſigne, for the Miniſters ſtill hold out
+<pb n="3" facs="tcp:161694:3"/>
+                  <!-- PDF PAGE 3 -->
+Here is great alterations in this Towne, Malignants are very high, and inſult over the Parliaments freinds with great tyranny. The Inhabitants feare they ſhall want bread to eate. Here is li<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tle trading, except to Souldiers upon Tickets. The Parli<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ment of <hi>Sco<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>land,</hi> and the Aſſembly of Divines a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e upon a new Treaty. Theſe Malignants here abou<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ſtop the report of the Parliament of <hi>Englands</hi> Votes, to continue the Go<g ref="char:EOLhyphen"/>vernment of the Kingdom, by the King, and Parlia<g ref="char:EOLhyphen"/>ment, and would not have the new<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ſpread in <hi>Scot<g ref="char:EOLhyphen"/>land.</hi> &amp;c.</p>
+               <p>Wee have every day freſh Alarms, God grant it prove not a worſe deluge then the former, none have cauſe to gape for a War, but the deſperate banckrupt, and the hungry Souldiers; me thinkes men of Eſtates ſhould now value peace. And Religion will at this time be ill ſettled in blood.</p>
+               <p>Our Governer Sir <hi>Arthur Hazlerig,</hi> ſent ſupplies to the Governour of the <hi>Holy Jſland,</hi> fearing that it might be attempted as well as <hi>Barwicke,</hi> And they came very ſeaſonably, for not long after they were landed; letters came to the Governour, from Sir <hi>Mar<g ref="char:EOLhyphen"/>maduke Langdale,</hi> to perſwade with him, about the ſurrender thereof. His Letter was (as I am informed) to this effect <hi>(viz)</hi>
+               </p>
+               <p>That hee had received Commiſſion from Prince <hi>Charles</hi> for the reducing of thoſe parts to the obedi<g ref="char:EOLhyphen"/>ence of the King. And that if hee would keep that <hi>Jſland</hi> for his Maj<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſty, he did aſſure him, that it would be taken by his Majeſty for a very accep<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>able ſervice, And promiſed him (upon his honour) that he ſhould have all his Arrears paid to him.</p>
+               <p>
+                  <pb n="4" facs="tcp:161694:4"/>
+                  <!-- PDF PAGE 4 -->The Governour being Incouraged by thoſe ſuplies ſent from hence, ſtands upon his guard, and would return him no Anſwer of compliance. Here are two Ships taken neere theſe coaſts by the <hi>Iriſh,</hi> w<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o d<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e much miſcheife at Sea.</p>
+               <p>Levitenont Colonell <hi>Henry Lilburne</hi> is placed Go<g ref="char:EOLhyphen"/>venerr of <hi>Tinmouth</hi> Caſtle, from which he is lit<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le ab<g ref="char:EOLhyphen"/>ſent. We haue good hopes of the Countries ſtanding firme to us, eſpecially if ſtrength come to ſupport them. God grant theſe diſmall clouds well blowne over.</p>
+               <closer>
+                  <dateline>Newcaſtle, <date>the 8, of May. 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <p>
+                  <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rom this Town of <hi>Newcaſtle,</hi> there was ſent this laſt weke, into the Towne of <hi>Barwick,</hi> a Frigor which carried 34. pieces of Ordinance, upon her coming into the Harbour, diſcharged 2 broad ſides againſt the Towne, which made them within thinke all was not like to be well with them; our Governo likewiſe on Munday the firſt inſtant, mounted a con<g ref="char:EOLhyphen"/>ſiderable number of musketeirs on horſeback, and ſent them to ſecure <hi>workworth</hi> Caſtle, a ſtrong hould that belongeth to the Earle of <hi>Northumberland,</hi> ſcitu<g ref="char:EOLhyphen"/>ate neer the ſea, upon the mouth of the River <hi>coquet,</hi> which runneth thorow the middle of Northumber<g ref="char:EOLhyphen"/>land.</p>
+               <p>The Popiſh and Malignant party, flock a pace forth of theſe two Counties of Northumberland, and Dur<g ref="char:EOLhyphen"/>ham, to Barwick, no doubt Royall Presbyters; where thoſe that held the Town are very active, ſen<g ref="char:EOLhyphen"/>ding forth ſummons to the parts remote, and adja<g ref="char:EOLhyphen"/>cent
+<pb n="5" facs="tcp:161694:4"/>
+                  <!-- PDF PAGE 4 -->
+wheat a Rendevous upon Hedgely Moor, 4. or 5. rules from Alwick, to be there liſted for the ſervice of the King: Col. <hi>Grey</hi> of Warke his tenants to joyn with them.</p>
+               <p>The high Sheriffe of Northumberland, and many Juſtices of Peace, are inforced to flie to Newcaſtle for the ſafety of their perſons, leaving their houſes and goods expoſed to the danger of the enemy. At the meeting laſt week of the ſeveral Northern Counties, at Richmond, it is agreed that ſome of Col. <hi>Lambertss</hi> troops of Horſe ſtay in Yorkſhire, and the reſt (about 1000) to be drawn to Nortumberland and Cumber<g ref="char:EOLhyphen"/>land.</p>
+               <p>This Town being at a generall meeting deſired to declare whether they would ſtand for the Parliament, and give their aſſiſtance for defence of the Town, an<g ref="char:EOLhyphen"/>ſwered that which ſignified nothing, or the contrary: Eght hundred Foot are comming from Yorkſhire to this Town; theſe Counties will not ſtir unleſſe they ſee a potent Army come for their defence, if then they begin to feele already its to be active any way; the Fortifications of this place and Tinmouth goes on apace. Lieutenant Coll. <hi>Lilbourne</hi> is to be Deputy Governour of Tinmouth.</p>
+               <closer>
+                  <dateline>Newcaſtle, <date>May. 7.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <p>The Copie of a Letter from <hi>Brecknockſhire</hi> in Wales &amp;c. Col. <hi>Horton</hi> keeps his Randezvouz in this Count<g ref="char:EOLhyphen"/>ry, where he hath ſcatered and routed all that were gathered togeather for the aſſiſtance of powell who were fortyfying of ſome ſtrong holds in this Country, he alſo oppoſeth the <hi>Welch</hi> party dayly,
+<pb facs="tcp:161694:5"/>
+                  <!-- PDF PAGE 5 -->
+and keeping them from flying to the Mountaines through his vigillancy: It is ſaid that Maj. Generall <hi>Laughorne,</hi> and Col. <hi>Powell</hi> have made ſeverall Pro<g ref="char:EOLhyphen"/>poſitions &amp; inhabitants of <hi>Southwales,</hi> to this effect <hi>viz.</hi>
+               </p>
+               <p>That they are reſolved to uſe there uttermoſt en<g ref="char:EOLhyphen"/>deavours for the ſetling of his Majeſtie in his Royall Palace at Weſtminſter.</p>
+               <p>To reſtore <hi>Charles</hi> Prince of <hi>Wales,</hi> and the reſt of the Royall Progeny, to all there juſt rights and pre<g ref="char:EOLhyphen"/>rogatives belonging unto them.</p>
+               <p>That they will hazard both life and fortunes for the electihg and ſtabliſhing the Booke of common prayer, and ſetling of Church Government, as it was before this Parliament began.</p>
+               <closer>
+                  <dateline>Cardiff <date>11. April, 1647.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>Worthy <hi>Sir.</hi>
+                  </salute>
+               </opener>
+               <p>Since my laſt, we have received further intelligenc<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from <hi>Barwick,</hi> that the Towne is now blocked up by Sea, and that they now, and then receive many Great ſhot, in<g ref="char:EOLhyphen"/>ſomuch, that divers houſes are battered; but <hi>Sir. Mar. Langdale,</hi> hath ſent Propoſitions to <hi>Capt in Batten</hi> Go<g ref="char:EOLhyphen"/>verner of the Holy Iſland, which are to this effect. viz.</p>
+               <p n="1">
+                  <hi>1</hi> That he would be pleaſed to ſurrender for elſe maintain the ſaid Gariſon for the Kings Maj. <hi>2</hi> that upon perfor<g ref="char:EOLhyphen"/>mance of the ſame, he will engage for his Arreares toge<g ref="char:EOLhyphen"/>ther with the ſouldiers alſo. <hi>3</hi> that he will aſſure him of his Maj. ſaid favor, and will recommend him unto his Majeſty. <hi>4</hi> That he would be pleaſed to conſider of the impriſonment of his Majeſty, and the violation of the laws of the Kingdom &amp;c. Theſe with ſome other circumſtan<g ref="char:EOLhyphen"/>ces, were preſented to the Governour; but he utter<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y deny<g ref="char:EOLhyphen"/>ed to aſſent thereunto.</p>
+               <closer>
+                  <dateline>Newcaſtle <date>May, 10. 1648.</date>
+                  </dateline>
+                  <salute>Sir,</salute> 
+                  <signed>I am yours to ſerve you <hi>I Holding.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <signed>G. M.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
